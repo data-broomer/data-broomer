@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](http://www.textfiles.com/underconstruction/HeHeartlandPark2601underconstructionbar9.gif)
+
+Responsável técnico: [Karlo Guidoni](https://github.com/kguidonimartins/)
 <!--
 **data-broomer/data-broomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
